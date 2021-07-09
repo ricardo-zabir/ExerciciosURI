@@ -1,12 +1,10 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+Resolução dos problemas do site URI Online Judge. 
+Obs.: para a aprovação no site, deve-se alterar o nome da classe para Main
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Exercícios URI
+PURPOSE OF PROJECT: Praticar a resolução de problemas utilizando a programação
+VERSION or DATE: 1.0
+AUTHOR: Ricardo Fonseca Zabir
+
