@@ -31,6 +31,5 @@ public class URI1134
         System.out.println("Alcool: "+contal);
         System.out.println("Gasolina: "+contgas);
         System.out.println("Diesel: "+contdie);
-    
         }
 }
